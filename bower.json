@@ -1,0 +1,21 @@
+{
+  "name": "resume",
+  "homepage": "https://github.com/pablolizardo/resume",
+  "authors": [
+    "pablolizardo <pablo_lizardo@yahoo.com.ar>"
+  ],
+  "description": "cv",
+  "main": "www/index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3"
+  }
+}
